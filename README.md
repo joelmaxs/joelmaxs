@@ -1,21 +1,9 @@
-# Olá, eu sou Joelma 👋
+# Joelma - Front-end Developer
 
-**Front-end Developer**
-
----
-
-### 🛠️ Tecnologias
+### Technologies
 
 HTML • CSS • JavaScript • TypeScript
 
----
+### Contact
 
-### 🚀 Projetos
-
-* Em breve...
-
----
-
-### 📫 Contato
-
-📧 [joelmacosta@email.com](mailto:joelmalima3001@email.com)
+📧 [joelmalima3001@email.com](mailto:joelmalima3001@email.com)
